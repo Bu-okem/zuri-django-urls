@@ -1,1 +1,1 @@
-# zuri-django-urls
+# Zuri Django Urls
